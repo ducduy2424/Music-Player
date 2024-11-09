@@ -75,6 +75,12 @@ const app = {
             singer: "Sơn Tùng MTP",
             path: "./assets/music/DungLamTraiTimAnhDau.mp3",
             image: "./assets/img/DungLamTraiTimAnhDau.jpg"
+        },
+        {
+            name: "Chưa có đặt tên",
+            Singer: "Hk biết",
+            path: "./assets/music/TuyetNhat.mp3",
+            image: "./assets/img/TuyetNhat.png"
         }
 
     ],
