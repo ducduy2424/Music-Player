@@ -29,6 +29,12 @@ const app = {
     // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
     songs: [
         {
+            name: 'Nhà Bà Chín Family',
+            singer: 'Đức Duy ❤️❤️💐💐',
+            path: './assets/music/NhaBaChinFamiLy.mp3',
+            image: './assets/img/grandba.jpg'
+        },
+        {
             name: "Như Một Lời Chia Tay",
             singer: "Lân Nhã",
             path: "./assets/music/NhuMotLoiChiaTay.mp3",
